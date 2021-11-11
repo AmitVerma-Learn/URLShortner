@@ -1,4 +1,4 @@
-#This is a 62 bit encoder that creats a 8 character URL has that can be used as a short URL
+#This is a 62 bit encoder that creats a 8 character random number has that can be used as a short URL
 #Base62 encoder allows us to use the combination of characters and numbers which contains A-Z, a-z, 0–9 total( 26 + 26 + 10 = 62)
 #So for 8 character short Url we can serve upto 62^8 URL (pow(62,8)
 print(pow(62,8))
