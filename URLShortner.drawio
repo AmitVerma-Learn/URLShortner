@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-11-11T17:26:56.412Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.44" etag="BfTkfUgbo3deprkPjNSs" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-11T17:28:56.980Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.44" etag="AFwURyk0t7As8dahLJdt" version="15.7.3" type="github">
   <diagram id="JLI9OqOzYqpo9EfrQ879" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Ob5PynbsvCS6A7_3f5DK-1" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;Scalable Architecture for URL Shortner&lt;/font&gt;&lt;/b&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="Ob5PynbsvCS6A7_3f5DK-1" value="&lt;b&gt;&lt;font color=&quot;#7ea6e0&quot;&gt;Scalable Architecture for URL Shortner&lt;/font&gt;&lt;/b&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="60" y="14" width="720" height="435" as="geometry" />
         </mxCell>
         <mxCell id="Ob5PynbsvCS6A7_3f5DK-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="1" target="Ob5PynbsvCS6A7_3f5DK-25" edge="1">
